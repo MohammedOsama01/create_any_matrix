@@ -19,5 +19,5 @@ This Java project demonstrates the use of 2D arrays. It allows the user to input
 6. Finally, it will calculate and print the sum for each column in the 2D array.
 
 ## Contributing
-Contributions welcome! If you find any issues or have improvements to suggest, please email meز
+Contributions welcome! If you find any issues or have improvements to suggest, please email me.
 
